@@ -1,7 +1,7 @@
 Read me
 # Prediction-Validation 🧬
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[YOUR-GITHUB-USERNAME]/Prediction-validation/blob/main/[YOUR-NOTEBOOK-NAME.ipynb])
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mirikrupkin/structural-ai-validation-suite/blob/main/Prediction_validation.ipynb)
 
 An end-to-end computational biology pipeline for benchmarking and validating AI-generated protein models (such as AlphaFold) against experimental PDB crystal structures. 
 
